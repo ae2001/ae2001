@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ae2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Naveen Kumar Nallamothu.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning Macine Learning using Python.
+- 📫 Cotact me: 
+-              Mail: naveenmonith@gmail.com
+-              Mobile: +91 7013200374
 
 <!---
 ae2001/ae2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
